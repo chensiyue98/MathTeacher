@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"MathTeacher","h":"","u":""},{"l":"MathTeacher.ButtonListener","h":"","u":""},{"l":"MathTeacher.NumberLimitedDmt","h":"","u":""}]
